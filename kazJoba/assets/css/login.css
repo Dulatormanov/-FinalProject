@@ -44,8 +44,16 @@ body{
 }
 
 .nav {
-    font-size: px;
-    text-transform: uppercase;
+    width: 80vw;
+     display: flex;
+     background-color: #bacbd6;
+     padding: 17px;
+     border-radius: 15px;
+     justify-content: center;
+     margin: auto;
+     align-items: center;
+     margin-bottom: 180px ;
+     margin-top: 182px;
 }
 .nav__link {
     display: inline-block;
